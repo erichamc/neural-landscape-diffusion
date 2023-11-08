@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+jax
+optax
+seaborn
